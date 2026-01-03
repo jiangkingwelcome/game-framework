@@ -1,0 +1,12 @@
+{
+  "creator": {
+    "version": "3.8.7"
+  },
+  "dependencies": {
+    "crypto-es": "^1.2.7"
+  },
+  "description": "Game Framework Template based on Oops Framework for Cocos Creator 3.8.7",
+  "name": "game-framework",
+  "version": "1.0.0",
+  "uuid": "d0d15815-75e9-4687-a444-6d1f39a489fc"
+}

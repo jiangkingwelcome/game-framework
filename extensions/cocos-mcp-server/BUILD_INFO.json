@@ -1,0 +1,13 @@
+{
+  "version": "1.5.4",
+  "mode": "production",
+  "buildTime": "2025-10-22T13:34:31.851Z",
+  "author": "李大仙 (LiDaxian)",
+  "contact": {
+    "email": "a549623165@gmail.com",
+    "wechat": "GM_LiDaDa",
+    "github": "https://github.com/DaxianLee"
+  },
+  "transport": "Streamable HTTP (MCP 2025-03-26)",
+  "tools": 50
+}

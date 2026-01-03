@@ -1,0 +1,57 @@
+{
+  "general": {
+    "designResolution": {
+      "width": 750,
+      "height": 1344,
+      "fitWidth": true,
+      "fitHeight": false
+    },
+    "orientation": {
+      "landscapeLeft": false,
+      "landscapeRight": false,
+      "portrait": true,
+      "upsideDown": false
+    },
+    "highQuality": true
+  },
+  "__version__": "1.0.6",
+  "fbx": {
+    "legacyFbxImporter": {
+      "visible": true
+    }
+  },
+  "script": {
+    "preserveSymlinks": true
+  },
+  "physics": {
+    "collisionGroups": [
+      {
+        "index": 1,
+        "name": "cube"
+      },
+      {
+        "index": 2,
+        "name": "ground"
+      },
+      {
+        "index": 3,
+        "name": "pickCube"
+      }
+    ],
+    "collisionMatrix": {
+      "0": 1,
+      "1": 6,
+      "2": 2,
+      "3": 0
+    },
+    "maxSubSteps": 1,
+    "sleepThreshold": 0.4,
+    "gravity": {
+      "y": -15
+    },
+    "allowSleep": true,
+    "fixedTimeStep": 0.016667,
+    "autoSimulation": true
+  },
+  "custom_joint_texture_layouts": []
+}
