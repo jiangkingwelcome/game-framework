@@ -68,7 +68,7 @@
       "__id__": 1
     },
     "_children": [],
-    "_active": true,
+    "_active": false,
     "_components": [
       {
         "__id__": 3
@@ -209,7 +209,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "game",
+    "_name": "3dgame",
     "_objFlags": 512,
     "__editorExtras__": {},
     "_parent": {
@@ -223,7 +223,7 @@
         "__id__": 13
       }
     ],
-    "_active": true,
+    "_active": false,
     "_components": [],
     "_prefab": null,
     "_lpos": {
@@ -271,7 +271,7 @@
         "__id__": 10
       }
     ],
-    "_active": true,
+    "_active": false,
     "_components": [],
     "_prefab": null,
     "_lpos": {
@@ -508,7 +508,7 @@
         "__id__": 31
       }
     ],
-    "_active": true,
+    "_active": false,
     "_components": [],
     "_prefab": null,
     "_lpos": {
